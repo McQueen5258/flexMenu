@@ -1,0 +1,34 @@
+.question-one {
+    border: 5px inset red;
+    border-radius:5px;
+}
+
+.question-two {
+    border: 1px inset green;
+    border-radius:5px;
+}
+
+.question-three {
+    border: 1px inset blue;
+    margin: 10px;
+    border-radius:5px;
+}
+
+.question-four {
+    border: 1px dotted black;
+    padding: 10px;
+    border-radius:5px;
+
+}
+
+.question-five {
+    border: 10px double black;
+    border-radius:5px;
+}
+
+.question-six {
+    border: 10px double black;
+    border-radius:5px;
+    padding: 5px;
+    margin: 5px;
+}
